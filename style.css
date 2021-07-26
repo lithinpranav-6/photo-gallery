@@ -1,0 +1,6 @@
+body {
+     background: rgb(61, 3, 153);
+    background: radial-gradient(circle, rgba(61, 3, 153, 1) 28%, rgba(16, 0, 255, 1) 47%, rgba(0, 212, 255, 1) 100%);
+    text-align: center;
+    color: aliceblue;
+}
